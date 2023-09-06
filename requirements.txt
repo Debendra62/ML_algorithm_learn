@@ -1,0 +1,5 @@
+Sklearn 
+pandas == 2.0.3
+matplotlib 
+numpy 
+scipy
